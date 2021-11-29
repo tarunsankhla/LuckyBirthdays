@@ -1,2 +1,3 @@
 # LuckyBirthdays
- Check how lucky is o b
+ Check how lucky is your birthday:
+ https://isyourbirthdateluckytoyou.netlify.app/
